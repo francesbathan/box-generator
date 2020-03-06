@@ -1,0 +1,35 @@
+* {
+  margin: 20px;
+  padding: 0px;
+}
+.addBox {
+  padding: 10px;
+  border: none;
+  background-color: #efefef;
+  border-radius: 3px;
+  outline: none;
+}
+.addButton {
+  padding: 8px 30px;
+  border: none;
+  border-radius: 3px;
+  background-color: #ebd4d4;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  outline: none;
+}
+.addButton:hover {
+  padding: 8px 30px;
+  border: none;
+  border-radius: 3px;
+  background-color: #c49898;
+  cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  outline: none;
+}
+.new_box {
+  display: inline-block;
+}
